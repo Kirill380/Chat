@@ -1,3 +1,9 @@
+<style>
+   p {
+    text-indent: 20px; 
+   }
+</style>
+  
 <h1>Chat</h1>
 <p>There is nothing particularly new, just a regular wheel reinventing))
 I and my friend try to figure out how does work with network in Java and Objective-C and consolidate our knowledge in
