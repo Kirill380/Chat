@@ -33,7 +33,7 @@ and maybe on Java for other OS.</p>
     <li>Develop simple security (o) </li>
 </ul>
   
-<b>Requirments for client side<b>
+<b>Requirments for client side</b>
 <ul>
     <li>Pretty GUI for user (m) </li>
     <li>User profile (setting) (m) </li>
