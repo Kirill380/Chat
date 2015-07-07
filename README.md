@@ -9,10 +9,11 @@ and maybe on Java for other OS.</p>
 <p>So, Clients after connecting to the server start typing messages and ever member of chat can see these ones. Messages might started with name of client then separate symbol and coresponding messages but it is optional and up to iOS developer. Also in the system should be administrator that can remotely manage server by giving specific comands.</p>
   
   Requirments for admin tools
-    - banish users from chat (m)
-    - set limit on amount of users (m)
-    - create chat groups (o)
-
+<ul>
+    <li>banish users from chat (m)</li>
+    <li>set limit on amount of users (m)</li>
+    <li>create chat groups (o)</li>
+</ul>
   Requirments for user tools
     - send message (m)
     - simple text formating (m)  
