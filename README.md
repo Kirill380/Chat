@@ -5,6 +5,7 @@ networking.</p>
 
 So, here is the simple chat we should develop and list of the requirements:
 
+<b>Intro</b>
 <p>Develop own custome server with blackjack and bitches) written on Java and client for iOS written on Objective-C
 and maybe on Java for other OS.</p>
 
@@ -17,14 +18,14 @@ and maybe on Java for other OS.</p>
     <li>Create chat groups (o)</li>
 </ul>
 
-<h2>Requirments for user tools</h2>
+<b>Requirments for user tools<b>
 <ul>
     <li>Send message (m)</li>
     <li>Simple text formating (m)</li>
     <li>Send images and showing them in chat window (o)</li>
 </ul>
   
-<h2>Requirments for functionality of server</h2>
+<b>Requirments for functionality of server<b>
 <ul>
     <li>Authorization (m) </li>
     <li>Forwarding recived messages to other users (m) </li> 
@@ -32,7 +33,7 @@ and maybe on Java for other OS.</p>
     <li>Develop simple security (o) </li>
 </ul>
   
-<h2>Requirments for client side</h2>
+<b>Requirments for client side<b>
 <ul>
     <li>Pretty GUI for user (m) </li>
     <li>User profile (setting) (m) </li>
