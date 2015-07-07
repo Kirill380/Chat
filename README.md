@@ -12,30 +12,30 @@ and maybe on Java for other OS.</p>
   
 <h2>Requirments for admin tools</h2>
 <ul>
-    <li>banish users from chat (m)</li>
-    <li>set limit on amount of users (m)</li>
-    <li>create chat groups (o)</li>
+    <li>Banish users from chat (m)</li>
+    <li>Set limit on amount of users (m)</li>
+    <li>Create chat groups (o)</li>
 </ul>
 
 <h2>Requirments for user tools</h2>
 <ul>
-    <li>send message (m)</li>
-    <li>simple text formating (m)</li>
-    <li>send images and showing them in chat window (o)</li>
+    <li>Send message (m)</li>
+    <li>Simple text formating (m)</li>
+    <li>Send images and showing them in chat window (o)</li>
 </ul>
   
 <h2>Requirments for functionality of server</h2>
 <ul>
-    <li>authorization (m) </li>
-    <li>forwarding recived messages to other users (m) </li> 
-    <li>implement manage service provided to admin (m) </li> 
-    <li>develop simple security (o) </li>
+    <li>Authorization (m) </li>
+    <li>Forwarding recived messages to other users (m) </li> 
+    <li>Implement manage service provided to admin (m) </li> 
+    <li>Develop simple security (o) </li>
 </ul>
   
 <h2>Requirments for client side</h2>
 <ul>
-    <li>pretty GUI for user (m) </li>
-    <li>user profile (setting) (m) </li>
-    <li>chat window (m) </li>
+    <li>Pretty GUI for user (m) </li>
+    <li>User profile (setting) (m) </li>
+    <li>Chat window (m) </li>
     <li>Help (o) </li>
 </ul>
