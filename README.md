@@ -18,14 +18,14 @@ and maybe on Java for other OS.</p>
     <li>Create chat groups (o)</li>
 </ul>
 
-<b>Requirments for user tools<b>
+<b>Requirments for user tools</b>
 <ul>
     <li>Send message (m)</li>
     <li>Simple text formating (m)</li>
     <li>Send images and showing them in chat window (o)</li>
 </ul>
   
-<b>Requirments for functionality of server<b>
+<b>Requirments for functionality of server</b>
 <ul>
     <li>Authorization (m) </li>
     <li>Forwarding recived messages to other users (m) </li> 
