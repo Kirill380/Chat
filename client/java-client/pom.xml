@@ -6,10 +6,9 @@
 
     <parent>
         <groupId>com.redkite</groupId>
-        <artifactId>client</artifactId>
+        <artifactId>chat</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
 
     <artifactId>java-client</artifactId>
     <version>1.0-SNAPSHOT</version>
