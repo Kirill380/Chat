@@ -1,4 +1,4 @@
-package com.redkite;
+package com.redkite.server;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -12,7 +12,7 @@ import java.net.Socket;
  */
 public class Server {
     private static final Logger logger = LogManager.getLogger(Server.class);
-    private static final int PORT = 3333;
+    private static final int PORT = 3334;
 
     public static void main(String[] args)  {
         ServerSocket ss = null;
