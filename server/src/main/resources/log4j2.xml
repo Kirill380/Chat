@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" packages="logger">
+    <Appenders>
+        <Console name="STDOUT" target="SYSTEM_OUT">
+            <PatternLayout>
+                <Pattern>%highlight{%d{dd/MM HH:mm:ss} %p %m%n}{ERROR=red, WARN=yellow, INFO=black, DEBUG=blue}</Pattern>
+            </PatternLayout>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Root level="DEBUG">
+            <AppenderRef ref="STDOUT" level="DEBUG"/>
+        </Root>
+    </Loggers>
+</Configuration>
